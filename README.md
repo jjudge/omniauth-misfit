@@ -1,4 +1,4 @@
-[![Gem Version](http://img.shields.io/gem/v/omniauth-misfit.svg)][gem]
+![Gem Version](http://img.shields.io/gem/v/omniauth-misfit.svg)
 
 # Omniauth Misfit
 
