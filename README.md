@@ -1,3 +1,5 @@
+[![Gem Version](http://img.shields.io/gem/v/omniauth-misfit.svg)][gem]
+
 # Omniauth Misfit
 
 OmniAuth strategy for the [Misfit API](https://build.misfit.com/docs/cloudapi/get_started)
