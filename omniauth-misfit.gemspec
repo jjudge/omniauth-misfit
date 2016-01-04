@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Jeff Judge"]
   s.email       = ["jeff@judge.io"]
   s.homepage    = "http://github.com/jjudge/omniauth-misfit"
-  s.summary     = %q{Misfit strategy for OmniAuth}
-  s.description = %q{Misfit strategy for OmniAuth}
+  s.summary     = %q{OmniAuth strategy for Misfit}
+  s.description = %q{OmniAuth strategy for Misfit}
   s.license     = 'MIT'
 
   s.files         = `git ls-files`.split($\)
