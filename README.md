@@ -47,6 +47,9 @@ Rails.application.config.middleware.use OmniAuth::Builder do
 end
 ```
 
+## Contributing
+Please! You know the drill.
+
 ## License
 
 [MIT](https://github.com/jjudge/omniauth-misfit/blob/master/LICENSE)
